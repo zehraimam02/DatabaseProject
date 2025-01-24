@@ -76,7 +76,7 @@ The Housing Society Management System (HSMS) is a comprehensive database-driven 
 - **Constraints:** Ensures data integrity for house/shop ownership and gate logs.
 
 ## Contributors
-- **Zehra Imam:** Backend development, database integration, and documentation.
 - **Zainab Rehman:** Frontend development, database integration, and documentation.
+- **Zehra Imam:** Backend development, database integration, and documentation.
 
 
